@@ -18,7 +18,8 @@ case 3:  cout<<"rabotaem nad etim" <<endl;
 break;
 case 4: cout<<"rabotaem nad etim" <<endl;
 break;
-
+default: cout<<"Sorry but u enter wrong symbol"<<endl;
+break;
 }
     system("pause");
 return 0;
