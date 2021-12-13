@@ -10,9 +10,9 @@ cin>>i;
 cout<< "enter 2 numbers"<<endl;
 cin>>a>>b;
 switch (i){
-case 1: cout<<"rabotaem nad etim" <<endl;
+case 1: cout<< Plus(a,b) <<endl;
 break;
-case 2:  cout<<"rabotaem nad etim" <<endl;
+case 2:  cout<<Minus(a,b )<<endl;
 break;
 case 3:  cout<<"rabotaem nad etim" <<endl;
 break;
